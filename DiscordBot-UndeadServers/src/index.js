@@ -99,4 +99,4 @@ client.on('message', message => {
 });
 
 
-client.login('ODEwMjE1MTY3NTE0MTE2MTI3.YCgZrQ.0W813k79efhku4lGFy7q5HXBbZA'); // discord token (keep private)
+client.login(); // discord token (keep private)
